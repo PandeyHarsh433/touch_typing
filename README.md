@@ -1,6 +1,6 @@
 # Touch Typing
 
-[Visit the App](https://example.com)
+[Visit the App](https://touch-typing-iota.vercel.app/)
 
 ## Installation
 
